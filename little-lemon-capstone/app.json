@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Little Lemon",
+    "slug": "little-lemon-capstone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#495E57"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
